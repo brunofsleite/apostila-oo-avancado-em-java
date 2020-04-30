@@ -763,4 +763,4 @@ O [Spring](https://github.com/spring-projects/spring-framework/blob/master/sprin
 org.springframework.web.SpringServletContainerInitializer
 ```
 
-Esse mecanismo faz com que o Spring dispare chamadas a classes como `AbstractAnnotationConfigDispatcherServletInitializer` sem a necessidade de configuração XML.
+Esse mecanismo faz com que o Spring dispare chamadas a classes como `AbstractAnnotationConfigDispatcherServletInitializer`

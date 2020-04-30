@@ -784,4 +784,3 @@ java --module-path libs --module cotuba.cli/cotuba.cli.Main "$@"
 
   Teste também a geração de um EPUB. Deve funcionar!
 
-

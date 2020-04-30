@@ -796,4 +796,4 @@ Use a nova enum para obter instâncias dos geradores.
 
   Agora, para definir um novo formato de ebook, basta criarmos mais uma implementação de `GeradorEbook` e mais um valor na enum `FormatoEbook`.
 
-  Não precisamos alterar o código da classe `Cotuba`. Nem de outras classes!
+  Não precisamos alterar o código da classe `Cotuba`

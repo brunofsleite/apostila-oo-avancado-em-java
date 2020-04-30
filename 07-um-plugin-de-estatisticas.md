@@ -403,6 +403,4 @@ Teste a geração de um ebook e veja se as palavras são impressas no console.
 
   ```sh
   ./cotuba.sh -d ~/cotuba/exemplo -f pdf
-  ```
-
-  Verifique se cada palavra do ebook foi impressa.
+  `

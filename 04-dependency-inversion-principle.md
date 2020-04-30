@@ -886,7 +886,3 @@ A nova abstração deve ficar no mesmo pacote de `Cotuba`.
   - de bibliotecas padrão do Java: API de Collections e NIO
   - das classes de domínio: `Ebook` e `Capitulo`
   - de abstrações: `ParametrosCotuba`, `RenderizadorMDParaHTML`, `GeradorPDF` e `GeradorEPUB`
-
-  ![Dependências do Cotuba {w=73}](assets/imagens/cap04-dependency-inversion-principle/dependencias-cotuba-invertidas-2.png)
-
-2. Teste a geração dos PDFs e EPUBs. Deve funcionar!

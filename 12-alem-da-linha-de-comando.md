@@ -1046,10 +1046,4 @@ Define implementações adequadas para as interfaces `ParametrosCotuba` e para `
   import cotuba.application.RepositorioDeMDs;
   ```
 
-4. Certifique-se que o servidor Web está rodando. Se não estiver, execute a classe `Boot`.
-
-  Teste a geração do PDF e do EPUB pela Web usando os botões apropriados da seguinte URL:
-
-  http://localhost:8080/livros/1
-
-  Deve funcionar!
+4. Certifique-se que o servidor Web está rodando. Se não estiver, execute a classe `Boot`

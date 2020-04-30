@@ -741,8 +741,4 @@ Isso minimizaria os efeitos do problema mas não resolveria a causa raiz.
 
 E qual é essa causa raiz?
 
-Dependendo de quem estiver implementando a interface `Plugin`, só definirá uma coisa ou outra.
-
-No fim das contas, há uma **quebra do LSP**: as implementações não são substituíveis pela interface, já que fornecem só parte do comportamento definido pela abstração.
-
-Como resolver? Isso é assunto para o próximo capítulo!
+Dependendo de quem estiver implementando a interface `Plugin`

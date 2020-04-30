@@ -752,8 +752,4 @@
     }
 
   }
-  ```
-
-3. Teste a geração de PDFs e EPUBs pelo Cotuba Web, acessando a URL a seguir. Deve funcionar!
-
-  http://localhost:8080/
+  `

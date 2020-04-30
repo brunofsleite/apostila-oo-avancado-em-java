@@ -1790,4 +1790,4 @@ public class CalculadoraEstatisticas implements AoFinalizarGeracao {
   import java.util.function.Consumer;
   ```
 
-5. Faça o build dos projetos `cotuba-cli` e `estatisticas-ebook` e teste a geração de PDFs e EPUBs. Veja se a contagem de palavras continua a funcionar.
+5. Faça o build dos projetos `cotuba-cli` e `estatisticas-ebook`

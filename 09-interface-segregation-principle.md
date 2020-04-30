@@ -611,4 +611,3 @@ Generalize esse plugin para algo como `AoRenderizarHTML`.
 
 Reorganize o código para que o CSS seja aplicado no novo plugin.
 
-

@@ -1486,4 +1486,4 @@ Um valor 0 indica que o módulo não possui nenhuma classe abstrata nem interfac
 
 Um valor 1 indica que o módulo tem somente classes abstratas ou interfaces.
 
-De acordo com o SAP, a abstratividade deve acompanhar a estabilidade de um módulo. Por isso, podemos dizer que quanto menor a métrica `I` maior deverá ser a abstratividade.
+De acordo com o SAP, a abstratividade deve acompanhar a estabilidade de um módulo. Por isso, podemos dizer que quanto menor a métrica `I`
